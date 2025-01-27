@@ -1,0 +1,21 @@
+Answer the following questions to start thinking about the project.
+
+1.  What are some topics (or a single topic) you are interested in studying from a data science perspective? These can be very specific or more general.
+
+2.  Given your to topic(s), where would you find data about it? Provide at least two sources, being as specific as possible. If you need to collect/scrape it yourself, describe the steps you’d need too take.
+
+3.  What challenges do you imagine having? How might you overcome them?
+
+Type your responses below and save it on Rmarkdown.
+
+My responses:
+
+1.  Social Media Analytics! I spend a lot of time on social media and would like to see how my data is being collected, used, interpreted and more.
+2.  Kaggle, <https://www.kaggle.com/datasets/amirmotefaker/instagram-data/data>, or snoopreport <https://blog.snoopreport.com/thats-how-snoopreport-single-instagram-user-monitoring-report-looks-like/> where you can choose which accounts you want to follow.
+3.  A few might be:
+    1.  Limited access to data
+        1.  I can overcome this by using Instagram Graph API.
+    2.  Privacy and ethics
+        1.  I can overcome this by anonymize data/
+    3.  Data quality and completeness
+        1.  I can overcome this by data cleaning.
